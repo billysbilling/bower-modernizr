@@ -1,0 +1,13 @@
+{
+  "name": "modernizr",
+  "version": "2.7.1",
+  "homepage": "",
+  "main": "modernizr.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
